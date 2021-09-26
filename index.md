@@ -1,37 +1,15 @@
-## 欢迎来到 Koha 中文版！
+## 欢迎来到 Koha 中文组！
 
-You can use the [editor on GitHub](https://github.com/KohaILS/kohails.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+我们致力于 Koha 中文版的完善和推广。根据目前 Koha 在中国的使用状况，我们的主要任务有：
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- 翻译 Koha 手册，已有手册翻译不完全，而且很多术语使用不准确
+- 翻译 Koha 软件界面语言，问题与手册雷同
+- 熟悉 Koha 使用方法，结合中国 CNMARC 比较使用异同，推广 Koha
 
-### Markdown
+如果，上面任务完成良好，可以考虑将 CNMARC 接入 Koha，中国图书馆软件将正式搭上开源软件的列车。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 新闻
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KohaILS/kohails.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Koha.org.cn 正式上线！
+- Koha 手册翻译开始
+- Koha 软件界面翻译进行中
